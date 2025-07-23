@@ -1,0 +1,30 @@
+{
+    "name": "revelai-journey",
+    "version": "1.0.0",
+    "description": "Backend Engineering Take-Home Exercise",
+    "main": "src/index.ts",
+    "scripts": {
+        "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+        "build": "tsc",
+        "start": "node dist/index.js",
+        "test": "jest",
+        "test:watch": "jest --watch"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "uuid": "^11.1.0"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.28.0",
+        "@types/express": "^4.17.17",
+        "@types/jest": "^29.5.14",
+        "@types/node": "^20.5.1",
+        "@types/supertest": "^2.0.16",
+        "@types/uuid": "^10.0.0",
+        "jest": "^29.7.0",
+        "supertest": "^6.3.4",
+        "ts-jest": "^29.4.0",
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^5.2.2"
+    }
+}
