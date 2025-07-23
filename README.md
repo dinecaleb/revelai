@@ -16,8 +16,8 @@ Built with **TypeScript**, **Express**, and an **in-memory store**, this solutio
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/revelai-journey-engine.git
-cd revelai-journey-engine
+git https://github.com/dinecaleb/revelai.git
+cd revelai
 npm install
 ```
 
