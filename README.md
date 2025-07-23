@@ -50,3 +50,11 @@ This runs the Jest test suite, including:
 ## 🎥 Demo (Bonus)
 
 ![Journey Demo](./assets/demo.gif)
+
+## Time spent
+
+- 🕒 1 hour
+
+## 🎥 Video recording url
+
+https://drive.google.com/file/d/1uL1imbwxSjWhU3riW8fxKJhGMNMbpG3X/view?usp=sharing
