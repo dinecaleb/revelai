@@ -17,7 +17,6 @@ Built with **TypeScript**, **Express**, and an **in-memory store**, this solutio
 
 ```bash
 git https://github.com/dinecaleb/revelai.git
-cd revelai
 npm install
 ```
 
